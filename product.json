@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Pav-Bhaji",
         "price": 120,
-        "image": "pav-bhaji.jpg"
+        "image": "Pav-bhaji.jpg"
     },
     {
         "id": 2,
@@ -40,7 +40,7 @@
         "id": 7,
         "name": "Masala-Dosa",
         "price": 140,
-        "image": "plain-dosa.webp"
+        "image": "Plain-Dosa.webp"
     },
     {
         "id": 9,
